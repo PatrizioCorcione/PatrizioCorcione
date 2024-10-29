@@ -1,10 +1,14 @@
+<div align="center">
+
 ## Chi sono
 
-Sono un Junior Full Stack Web Developer con passione per la creazione di applicazioni web interattive e responsive. Amo imparare nuove tecnologie e migliorare continuamente le mie competenze.
+Sono un **Junior Full Stack Web Developer** con passione per la creazione di applicazioni web interattive e responsive. Amo imparare nuove tecnologie e migliorare continuamente le mie competenze.
+
+---
 
 ## 🔧 Tecnologie & Strumenti
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -14,9 +18,11 @@ Sono un Junior Full Stack Web Developer con passione per la creazione di applica
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+---
+
 ## 🔗 Connettiti con me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/patrizio-corcione-98236a312/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -24,3 +30,5 @@ Sono un Junior Full Stack Web Developer con passione per la creazione di applica
     <img src="https://img.shields.io/badge/Portfolio-20B45B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
+</div>
