@@ -1,5 +1,3 @@
-# Nome Cognome/README.md
-
 ## Chi sono
 
 Sono un Junior Full Stack Web Developer con passione per la creazione di applicazioni web interattive e responsive. Amo imparare nuove tecnologie e migliorare continuamente le mie competenze.
@@ -20,6 +18,10 @@ Sono un Junior Full Stack Web Developer con passione per la creazione di applica
 ## 🔗 Connettiti con me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuo-profilo-linkedin" target="_blank"><img src="https://www.linkedin.com/in/patrizio-corcione-98236a312/" alt="LinkedIn"></a>
-  <a href="https://tuo-sito-portfolio.com" target="_blank"><img src="https://patrizio-corcione-portfolio.vercel.app/" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/patrizio-corcione-98236a312/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://patrizio-corcione-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20B45B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
