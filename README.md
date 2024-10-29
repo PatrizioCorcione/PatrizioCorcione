@@ -2,7 +2,9 @@
 
 ## Chi sono
 
-Sono un **Junior Full Stack Web Developer** con passione per la creazione di applicazioni web interattive e responsive. Amo imparare nuove tecnologie e migliorare continuamente le mie competenze.
+Sono un **Junior Full Stack Web Developer** con una forte passione per l'informatica e la programmazione, che ho coltivato nel tempo mentre lavoravo per oltre 7 anni come barman. La mia esperienza come barman mi ha permesso di sviluppare competenze importanti come il problem-solving, la gestione del tempo e l'attenzione al dettaglio, qualità che ora applico con entusiasmo nello sviluppo di applicazioni web.
+Da sempre attratto dal mondo della tecnologia, ho deciso di seguire la mia vocazione e intraprendere un percorso di formazione intensiva tramite Boolean.
+Sono una persona motivata e curiosa, sempre alla ricerca di nuove tecnologie e strumenti per migliorare le mie competenze e offrire soluzioni innovative. Lavorare come sviluppatore mi permette di unire la mia capacità di risolvere problemi in modo creativo con la mia passione per il mondo digitale, per creare esperienze coinvolgenti e funzionali.
 
 ---
 
