@@ -11,6 +11,8 @@ Sono una persona motivata e curiosa, sempre alla ricerca di nuove tecnologie e s
 
 </p>
 
+---
+
 ## 🔧 Tecnologie & Strumenti
 
 <p align="center">
